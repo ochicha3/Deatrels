@@ -1,0 +1,90 @@
+<html>
+    <head>
+        <title>Deat rels</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <h1>DEAT RELS</h1><img src="https://static.wikia.nocookie.net/dead-railsroblox/images/6/6a/PNG.webp/">
+            
+            <a class="button" href=""></a>
+        
+        <nav>
+            <a class="nav-link" href="index.html">ГОЛОВНА СТОРИНКА</a>
+            <a class="nav-link" href="arm.html">ВСЕ ПРО ЗБРОЮ</a>
+            <a class="nav-link" href="https://www.roblox.com/games/116495829188952/Dead-Rails-Alpha">САЙТ ГРИ</a>
+            
+        </nav>
+        </header>
+        <main>
+            
+            <section class="info">
+                <article>
+                    <h2>ВСЕ ПР ЗБРОЮ</h2>
+                    
+                    <p>Електропістолет</p>
+                    <img src="https://static.wikia.nocookie.net/dead-railsroblox/images/1/12/Electrocutionerwithouthbackground.webp/">
+                    <p>електропістолет його можна получити після пережеваня нападіня зомбі ученх на 20000-50000 км в базі ніколи тесли в нього 20/0 зарядів блискавкі</p>
+                    <p>його можна зарядити блскавкой для чого треба знайти громо отвід ви любом домі він вбиває з перщого встрелу в радиусе </p>
+                    
+                    
+        
+                    <a class="article-but" href=""></a>
+                </article>
+                <article>
+                    <h2></h2>
+            
+                    <p>ВІНТОВКА</p>
+                    <img src="https://static.wikia.nocookie.net/dead-railsroblox/images/3/36/RifleRender.png/">
+                    <p>ВІНТОВКА її можна найти в шеріфій вона вбиває за два вистрелу  в голову з першого вистрелу</p><p> її можна купити в началі та зи  10000-70000 км можна її купити в гансмиті за 75 доларів та патрони за 20 доларів </p>
+                    <a class="article-but" href=""></a>
+                </article>
+                <article>
+                    <h2></h2>
+                    
+                    <p></p>
+                    <a class="article-but" href=""></a>
+                </article>
+                <article>
+                    <h2></h2>
+                
+                    <p></p>
+                    <a class="article-but" href=""></a>
+                </article>
+            </section>
+            <p></p>
+            
+            
+            <p>ПІСТОЛЕТ</p>
+            <img src="https://static.wikia.nocookie.net/dead-railsroblox/images/e/e6/RevolverRenderInverse.png/">
+            <p>ПІСТОЛЕТ його можна купити на началі та зи 10000-70000 він коштує 35 та патрони 15 доларив він вбиває за чотири вистрелу та в голову за два вистрелу</p>
+            <p>ДРОБОВИК</p>
+            <img src="https://static.wikia.nocookie.net/dead-railsroblox/images/f/fd/ShotgunRenderInverse.png/">
+            <p>ДРОБОВИК його як пістолет та вінтовку можна купити на началі та зи 10000-70000км він вбиває з першого вистрелу куда завгодно коштує 50 та патрон за 15 доларів</p>
+
+
+
+
+
+
+
+        </main>
+
+
+
+
+
+            <section class="video">
+                <h2></h2>
+        
+        
+
+
+            </section>
+        <footer>
+            <h3>САЙТ СТВОРИВ ОЛЕКСАНДР</h3>
+          
+            <p><b> <br/></b></p> 
+        </footer>
+    </body>
+</html>
